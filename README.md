@@ -1,6 +1,8 @@
 # Web-typografie
 Minor visual interface design 3.1 2019/2020
 
+<img src='blade-runner.png' width='100%' height='auto'>
+
 # Opdracht
 Horen is voor mensen een erg belangrijk zintuig. Geluid geeft informatie, gevoel en karakter. Wanneer iemand doof is of om een andere reden geen geluid kan horen mist die persoon veel informatie. Bijvoorbeeld het kijken van een film zonder geluid is een hele andere ervaring. Er bestaat een begrip genaamd closed-captions waarbij de geluiden en muziek beschreven worden. Dit geeft de kijker van de film wel meer informatie maar er is nog veel winst op te behalen.
 
