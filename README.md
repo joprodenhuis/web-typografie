@@ -9,7 +9,7 @@ Darice ervaart hierdoor de films niet zoals mensen met gehoor dit zouden doen. A
 
 Ik heb de ondertiteling en geluidseffecten op een visuele manier weergegeven zodat de film ook zonder geluid karakter heeft.
 
-## Font keuze
+# Font keuze
 Ik heb gekozen om voor de tekst van de closed-captions gebruik te maken van het lettertype Brenner. Brenner is een zeer uitgebreid lettertype met veel variaties in uiterlijk. Door te kiezen voor de Brenner font wil ik meer karakter geven aan bepaalde zinnen of woorden. Door het gebruik van een systeemfont zou dit bijvoorbeeld niet mogelijk zijn. Wanneer er voor een hele drukke visualisatie gekozen zou zijn zou een systeemfont wel meer rust kunnen brengen in de video. Voor de ervaring van Darice heeft het echter een meerwaarde om gebruik te maken van verschillende font variaties.
 
 # Feedback sessies
